@@ -110,5 +110,6 @@ def pi_version():
         # Pi 3b+
         return 3
     else:
-        # Something else, not a pi.
-        return None
+        # Something else, like PI 4 MODEL B
+        # my personal changes to the code
+        return 3
