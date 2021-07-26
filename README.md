@@ -1,4 +1,4 @@
-*DEPRECATED LIBRARY* Adafruit Python DHT Sensor Library
+*DEPRECATED LIBRARY* Adafruit Python DHT Sensor Library - Adapted for Rpi 4
 =======================
 
 his library has been deprecated! We are leaving this up for historical and research purposes but archiving the repository.
